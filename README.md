@@ -1,11 +1,11 @@
-# 🧠 Programming of AI – Practice Assignment
+#  Programming of AI – Practice Assignment
 
-📘 **Subject:** Programming of AI  
-👨‍🎓 **Name:** Santosh  
-🎓 **Roll Number:** 22/F-BSAI-63  
-🏛️ **University:** Dawood University of Engineering and Technology (DUET), Karachi  
-🏫 **Department:** Artificial Intelligence  
-📅 **Assignment Type:** Practice Submission  
+ **Subject:** Programming of AI  
+ **Name:** RAJA ABDUL RAFAY  
+**Roll Number:** 22/F-BSAI-93 
+**University:** Dawood University of Engineering and Technology (DUET), Karachi  
+ **Department:** Artificial Intelligence  
+ **Assignment Type:** Practice Submission  
 
 ## 📄 Overview
 
@@ -110,11 +110,10 @@ pip install -r requirements.txt
 
 ## ✍️ Submitted By
 
-**Santosh**
-🎓 Roll No: 22/F-BSAI-63
+RAJA ABDUL RAFAY
+🎓 Roll No: 22F-BSAI-93
 📘 Department of Artificial Intelligence
 🏫 Dawood University of Engineering & Technology (DUET), Karachi
 
 
 
-📌 *Note: This assignment was prepared for learning and practice purposes only.*
